@@ -1,0 +1,19 @@
+.sedes {
+  margin-top: 50px;
+
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  color: aliceblue;
+}
+
+.sede {
+  text-align: center;
+  padding: 15px;
+}
+
+.sede h4,
+.sde span {
+  margin-left: 5px;
+  display: inline-block;
+  color: aliceblue;
+}

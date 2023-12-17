@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Revistas",
+    "src": "https://picsum.photos/800/300?random=110",
+    "texto": "Lorem Ipsum "
+  },
+  {
+    "id": 2,
+    "titulo": "Jornais",
+    "src": "https://picsum.photos/800/300?random=111",
+    "texto": "Lorem Ipsum"
+  },
+  {
+    "id": 3,
+    "titulo": "Gibis",
+    "src": "https://picsum.photos/800/300?random=112",
+    "texto": "Lorem Ipsum"
+  },
+  {
+    "id": 4,
+    "titulo": "Manga",
+    "src": "https://picsum.photos/800/300?random=113",
+    "texto": "Lorem Ipsum"
+  }
+]

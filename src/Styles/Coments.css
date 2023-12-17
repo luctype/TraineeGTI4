@@ -1,0 +1,22 @@
+.comentario {
+  margin-top: 50px;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  color: aliceblue;
+}
+
+.comment {
+  text-align: center;
+  padding: 15px;
+}
+
+.comment h4,
+.comment span {
+  margin-left: 5px;
+  display: inline-block;
+  color: aliceblue;
+}
+.comentario img {
+  border-radius: 50%;
+}

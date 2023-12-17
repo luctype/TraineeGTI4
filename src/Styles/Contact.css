@@ -1,0 +1,28 @@
+.contatos {
+  color: white;
+  font-size: 25px;
+  list-style: none;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.contato li {
+  text-align: center;
+}
+
+.redeSocial {
+  list-style: none;
+  text-align: center;
+  color: #fff;
+}
+
+.redeSocial li {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 50px;
+
+  border-radius: 12px;
+}
